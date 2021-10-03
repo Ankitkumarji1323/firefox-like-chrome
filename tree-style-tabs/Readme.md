@@ -66,7 +66,7 @@ padding: 5px !important;
 }
 .tab.active .label {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15x;
 }
 .tab.active .twisty,
 .tab.active .label,
